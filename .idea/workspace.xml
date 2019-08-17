@@ -15,7 +15,28 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/工厂模式.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/职业标准.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,11 +77,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="771" />
-    <option name="y" value="121" />
-    <option name="width" value="1440" />
-    <option name="height" value="773" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1911" />
+    <option name="y" value="51" />
+    <option name="width" value="1698" />
+    <option name="height" value="1018" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -70,6 +91,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,18 +105,10 @@
               <item name="JAVAStudyNotes" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JAVAStudyNotes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVAStudyNotes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,16 +229,18 @@
       <workItem from="1557040149486" duration="5000" />
       <workItem from="1559019395886" duration="1320000" />
       <workItem from="1559027774803" duration="7000" />
+      <workItem from="1564671386943" duration="62000" />
+      <workItem from="1564729439992" duration="105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22990000" />
+    <option name="totallyTimeSpent" value="23157000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="123" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31903484" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32841823" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -254,6 +271,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Mybatis datasource" order="10" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,14 +346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/职业标准.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/Shape.java" />
     <entry file="file://$PROJECT_DIR$/src/algorithm/Circle.java" />
     <entry file="file://$PROJECT_DIR$/src/algorithm/Rectangle.java" />
@@ -349,6 +359,22 @@
     <entry file="file://$PROJECT_DIR$/src/algorithm/ColorFactory.java" />
     <entry file="file://$PROJECT_DIR$/src/algorithm/FactoryProducer.java" />
     <entry file="file://$PROJECT_DIR$/src/algorithm/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/工厂模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/职业标准.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
